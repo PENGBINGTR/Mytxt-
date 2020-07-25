@@ -8,5 +8,6 @@ public class Demo {
 		System.out.println("第四次修改并且提交github");
 		System.out.println("第五次修改并且提交github");
 		System.out.println("第六1次修改并且提交github");
+		System.out.println("第七次修改并且提交github");
 	}
 }
